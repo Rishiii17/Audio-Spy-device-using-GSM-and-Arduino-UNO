@@ -6,4 +6,4 @@ After finishing all connections, power the device either with USB or with a
 4 to 5V battery. 
 Then deploy the device near a person, which you want to
 spy on. 
-Now, make a call on the SIM800l. It will be automatically received and transfer of the voice signal to your phone will begi
+Now, make a call on the SIM800l. It will be automatically received and transfer of the voice signal to your phone will begin.
